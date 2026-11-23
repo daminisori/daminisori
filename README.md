@@ -12,33 +12,42 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daminisori&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true)](https://github.com/daminisori)
 
 
-<p><code>daminisori@github ~ $ neofetch</code></p>
+
+<p align="center"><code>damini@sori:~$ neofetch</code></p>
 
 <table>
-  <tr>
-    <td width="38%" align="center" valign="middle">
-      <img src="./portrait.png.png" width="250" alt="Damini Sori" />
-    </td>
-    <td width="62%" valign="middle">
+<tr>
+<td width="35%" align="center" valign="middle">
+<img src="./portrait.png.png" width="220" alt="Damini Sori"/>
+</td>
+<td width="65%" valign="middle">
 
-```bash
+```text
+██████╗  █████╗ ███╗   ███╗██╗███╗   ██╗██╗
+██╔══██╗██╔══██╗████╗ ████║██║████╗  ██║██║
+██║  ██║███████║██╔████╔██║██║██╔██╗ ██║██║
+██║  ██║██╔══██║██║╚██╔╝██║██║██║╚██╗██║██║
+██████╔╝██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║
+╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝
+
 damini@sori
-------------------------------
-OS          : IIIT Naya Raipur
-HOST        : B.Tech CSE
-ROLE        : Developer
-SHELL       : Full-Stack + AI
-LANGUAGES   : TypeScript, C++, Python
-FRAMEWORKS  : React, Remotion
-EDITOR      : VS Code
-INTERESTS   : AI, Web, CP
-STATUS      : Building & Learning
-------------------------------
+──────────────────────────────
+OS        : IIIT Naya Raipur
+Host      : B.Tech Computer Science
+Kernel    : Full-Stack Development
+Shell     : TypeScript / Python / C++
+Editor    : VS Code
+Interests : AI, Web & Competitive Programming
+Status    : Building. Learning. Shipping.
+──────────────────────────────
+
+[ SYSTEM ONLINE ]
 ```
 
-  </td>
-  </tr>
+</td>
+</tr>
 </table>
+
 
 <p align="center"><code>[ SYSTEM ONLINE ]</code></p>
 
