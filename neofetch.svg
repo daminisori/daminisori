@@ -1,0 +1,52 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="480" viewBox="0 0 850 480">
+  <style>
+    .logo {
+      fill: #A970FF;
+      font-family: monospace;
+      font-size: 15px;
+      font-weight: bold;
+    }
+    .terminal {
+      fill: #39D353;
+      font-family: monospace;
+      font-size: 17px;
+    }
+    .muted {
+      fill: #8b949e;
+      font-family: monospace;
+      font-size: 15px;
+    }
+    .purple {
+      fill: #A970FF;
+      font-family: monospace;
+      font-size: 18px;
+      font-weight: bold;
+    }
+  </style>
+
+  <rect width="850" height="480" rx="12" fill="#0d1117"/>
+
+  <g class="logo">
+    <text x="25" y="65">██████╗  █████╗ ███╗   ███╗██╗███╗   ██╗██╗</text>
+    <text x="25" y="90">██╔══██╗██╔══██╗████╗ ████║██║████╗  ██║██║</text>
+    <text x="25" y="115">██║  ██║███████║██╔████╔██║██║██╔██╗ ██║██║</text>
+    <text x="25" y="140">██║  ██║██╔══██║██║╚██╔╝██║██║██║╚██╗██║██║</text>
+    <text x="25" y="165">██████╔╝██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║</text>
+    <text x="25" y="190">╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝</text>
+  </g>
+
+  <text x="25" y="240" class="purple">damini@sori</text>
+  <text x="25" y="263" class="muted">────────────────────────────────────────────</text>
+
+  <g class="terminal">
+    <text x="25" y="300">OS        : IIIT Naya Raipur</text>
+    <text x="25" y="330">Host      : B.Tech Computer Science</text>
+    <text x="25" y="360">Kernel    : Full-Stack Development</text>
+    <text x="25" y="390">Shell     : TypeScript / Python / C++</text>
+    <text x="25" y="420">Editor    : VS Code</text>
+  </g>
+
+  <text x="25" y="450" class="muted">[ SYSTEM ONLINE ]</text>
+  <text x="500" y="450" class="purple">BUILDING • LEARNING • SHIPPING</text>
+</svg>
