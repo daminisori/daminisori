@@ -37,6 +37,14 @@
   </tr>
 </table>
 
+<p align="center">
+  <img
+    src="./profile-animation.gif"
+    width="600"
+    alt="Damini's animated project preview"
+  />
+</p>
+
 
 
 <p align="center"><code>[ SYSTEM ONLINE ]</code></p>
