@@ -57,7 +57,10 @@
 
 
 <p align="center"><code>[ SYSTEM ONLINE ]</code></p>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,html,css,git,github,vscode,vercel&theme=dark"
+       alt="My Tech Stack"/>
+</p>
 <!-- PROJECTS SECTION -->
 
 <p align="center">
