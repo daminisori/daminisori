@@ -13,40 +13,30 @@
 
 
 
-<p align="center"><code>damini@sori:~$ neofetch</code></p>
+
+<p align="center">
+  <code>damini@sori:~$ neofetch</code>
+</p>
 
 <table>
-<tr>
-<td width="35%" align="center" valign="middle">
-<img src="./portrait.png.png" width="220" alt="Damini Sori"/>
-</td>
-<td width="65%" valign="middle">
-
-```text
-██████╗  █████╗ ███╗   ███╗██╗███╗   ██╗██╗
-██╔══██╗██╔══██╗████╗ ████║██║████╗  ██║██║
-██║  ██║███████║██╔████╔██║██║██╔██╗ ██║██║
-██║  ██║██╔══██║██║╚██╔╝██║██║██║╚██╗██║██║
-██████╔╝██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║
-╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝
-
-damini@sori
-──────────────────────────────
-OS        : IIIT Naya Raipur
-Host      : B.Tech Computer Science
-Kernel    : Full-Stack Development
-Shell     : TypeScript / Python / C++
-Editor    : VS Code
-Interests : AI, Web & Competitive Programming
-Status    : Building. Learning. Shipping.
-──────────────────────────────
-
-[ SYSTEM ONLINE ]
-```
-
-</td>
-</tr>
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img
+        src="./portrait.png.png"
+        width="220"
+        alt="Damini Sori"
+      />
+    </td>
+    <td width="65%" valign="middle">
+      <img
+        src="./neofetch.svg"
+        width="100%"
+        alt="Damini's neofetch terminal profile"
+      />
+    </td>
+  </tr>
 </table>
+
 
 
 <p align="center"><code>[ SYSTEM ONLINE ]</code></p>
