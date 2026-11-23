@@ -41,6 +41,81 @@
 
 <p align="center"><code>[ SYSTEM ONLINE ]</code></p>
 
+<!-- PROJECTS SECTION -->
+
+<p align="center">
+  <code>damini@sori:~$ ./projects.sh</code>
+</p>
+
+<h2 align="center">
+  <span style="color:#A970FF">▌</span> FEATURED PROJECTS
+</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>💜 01. CAMPUS-CARE</h3>
+
+**Campus Support Platform**
+
+A platform focused on campus complaints and scholarship assistance.
+
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=A970FF"/>
+<img src="https://img.shields.io/badge/Full--Stack-0d1117?style=flat-square&logoColor=39D353"/>
+
+<br/><br/>
+
+<a href="https://github.com/daminisori/CAMPUS-CARE">
+  <img src="https://img.shields.io/badge/VIEW_SOURCE-39d353?style=for-the-badge&logo=github&logoColor=0d1117"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>💜 02. ANIMAKER</h3>
+
+**Creative Web Development**
+
+A JavaScript-based development project.
+
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=A970FF"/>
+
+<br/><br/>
+
+<a href="https://github.com/daminisori/animaker">
+  <img src="https://img.shields.io/badge/VIEW_SOURCE-39d353?style=for-the-badge&logo=github&logoColor=0d1117"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<h3>💜 03. ABOUT-ME</h3>
+
+**Personal Developer Portfolio**
+
+A personal portfolio built with React, TypeScript and Remotion.
+
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=A970FF"/>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=A970FF"/>
+<img src="https://img.shields.io/badge/Remotion-0d1117?style=flat-square&logo=react&logoColor=A970FF"/>
+
+<br/><br/>
+
+<a href="https://github.com/daminisori/about-me">
+  <img src="https://img.shields.io/badge/VIEW_SOURCE-39d353?style=for-the-badge&logo=github&logoColor=0d1117"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <code>[ MORE PROJECTS COMING SOON ]</code>
+</p>
+
 
 <p><code>daminisori@github ~ $ ./tech_stack.sh</code></p>
 
