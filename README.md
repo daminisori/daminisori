@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img
+    src="./project-preview.jpg"
+    width="600"
+    alt="Project preview"
+  />
+</p>
+
 <div align="center">
 
 <!-- Animated Terminal Header -->
