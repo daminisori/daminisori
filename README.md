@@ -11,20 +11,37 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daminisori&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true)](https://github.com/daminisori)
 
-<p><code>daminisori@github ~ $ whoami</code></p>
+
+<p><code>daminisori@github ~ $ neofetch</code></p>
 
 <table>
   <tr>
-    <td width="38%" align="center">
-      <img src="./portrait.png.png" alt="Profile Sketch" width="250" />
+    <td width="38%" align="center" valign="middle">
+      <img src="./portrait.png.png" width="250" alt="Damini Sori" />
     </td>
-    <td width="62%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=daminisori&theme=radical&background=0d1117&border=30363d&stroke=30363d&ring=39d353&fire=39d353&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="100%" />
-      <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=daminisori&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=39d353&icon_color=39d353&text_color=c9d1d9&hide_title=true" alt="GitHub Stats" width="100%" />
-    </td>
+    <td width="62%" valign="middle">
+
+```bash
+damini@sori
+------------------------------
+OS          : IIIT Naya Raipur
+HOST        : B.Tech CSE
+ROLE        : Developer
+SHELL       : Full-Stack + AI
+LANGUAGES   : TypeScript, C++, Python
+FRAMEWORKS  : React, Remotion
+EDITOR      : VS Code
+INTERESTS   : AI, Web, CP
+STATUS      : Building & Learning
+------------------------------
+```
+
+  </td>
   </tr>
 </table>
+
+<p align="center"><code>[ SYSTEM ONLINE ]</code></p>
+
 
 <p><code>daminisori@github ~ $ ./tech_stack.sh</code></p>
 
