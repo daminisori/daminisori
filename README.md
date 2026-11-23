@@ -137,22 +137,7 @@ A personal portfolio built with React, TypeScript and Remotion.
 </p>
 
 
-<p><code>daminisori@github ~ $ ./tech_stack.sh</code></p>
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=39d353" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=39d353" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=39d353" />
-  <img src="https://img.shields.io/badge/Remotion-0d1117?style=for-the-badge&logo=react&logoColor=39d353" />
-  <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=39d353" />
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39d353" />
-  <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=39d353" />
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daminisori&layout=compact&bg_color=0d1117&border_color=30363d&title_color=39d353&text_color=c9d1d9" alt="Top Languages" />
-
-<br/><br/>
 
 <p><code>daminisori@github ~ $ ./links.sh</code></p>
 
