@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td width="40%" align="center">
-      <img src="./portrait.png" alt="Profile Sketch" width="260" />
+      <img src="./portrait.png.png" alt="Profile Sketch" width="260" />
     </td>
     <td width="60%" align="center">
       <img src="[https://github-readme-streak-stats.herokuapp.com/?user=daminisori&theme=radical&background=0d1117&border=30363d&stroke=30363d&ring=39d353&fire=39d353&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e](https://github-readme-streak-stats.herokuapp.com/?user=daminisori&theme=radical&background=0d1117&border=30363d&stroke=30363d&ring=39d353&fire=39d353&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e)" alt="GitHub Streak" width="100%" />
