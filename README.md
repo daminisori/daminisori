@@ -70,6 +70,21 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=daminisori&theme=dark&hide_border=true&background=0D1117&ring=A970FF&fire=39D353&currStreakLabel=39D353"/>
 </p>
+
+<h2 align="center">./my_git_bonsai.sh 🌳</h2>
+
+<p align="center">
+  <img
+    src="./output/bonsai-growth.gif"
+    width="384"
+    alt="My GitHub activity bonsai tree"
+  />
+</p>
+
+<p align="center">
+  <i>Every commit helps my tree grow.</i>
+</p>
+
 <!-- PROJECTS SECTION -->
 <h2>./projects.sh</h2>
 
