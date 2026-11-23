@@ -61,8 +61,26 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,html,css,git,github,vscode,vercel&theme=dark"
        alt="My Tech Stack"/>
 </p>
-<!-- PROJECTS SECTION -->
+<h2>./github_stats.sh</h2>
 
+<p align="center">
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=daminisori&show_icons=true&theme=github_dark&hide_border=true&title_color=A970FF&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=daminisori&theme=dark&hide_border=true&background=0D1117&ring=A970FF&fire=39D353&currStreakLabel=39D353"/>
+</p>
+<!-- PROJECTS SECTION -->
+<h2>./projects.sh</h2>
+
+<p align="center">
+  <a href="https://github.com/daminisori/CAMPUS-CARE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daminisori&repo=CAMPUS-CARE&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A970FF&icon_color=39d353"/>
+  </a>
+  <a href="https://github.com/daminisori/animaker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daminisori&repo=animaker&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A970FF&icon_color=39d353"/>
+  </a>
+</p>
 <p align="center">
   <code>damini@sori:~$ ./projects.sh</code>
 </p>
